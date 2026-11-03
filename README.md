@@ -2,7 +2,7 @@
 
 🚀 AI Developer | Full-Stack Engineer | Builder
 
-I build AI-powered products for both consumers and businesses, with a strong focus on autonomous agents, deep research systems, and scalable full-stack solutions.
+I build.
 
 ---
 
