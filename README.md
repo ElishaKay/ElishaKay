@@ -1,6 +1,4 @@
-# 👋 Hi, I'm Elisha Kramer
-
-🚀 AI Developer | Full-Stack Engineer | Builder
+# 👋 Hi, I'm Elisha
 
 I build.
 
