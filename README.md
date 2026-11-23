@@ -19,5 +19,4 @@ I like to build.
 
 ## 🤝 Let's Connect
 
-I'm always open to:
-- Collaboration
+I'm always open to collab
