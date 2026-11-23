@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Elisha
 
-I build.
+I like to build.
 
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks:**
 - TypeScript / JavaScript
-- Python
 - React / Next.js
+- Python
 
 **Infrastructure & Tools:**
 - Docker
