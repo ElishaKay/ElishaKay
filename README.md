@@ -17,18 +17,7 @@ I build.
 
 ---
 
-## 📈 What I'm Focused On
-
-- Shipping real products that people use
-- Turning research into actionable insights
-
----
-
 ## 🤝 Let's Connect
 
 I'm always open to:
 - Collaboration
-
----
-
-⭐️ *If you like what I build, consider following or starring my projects!*
